@@ -1,0 +1,7 @@
+total 16
+-rw-r--r--  1 joseluisbustosesteban  staff   44 Oct  9 10:17 README.md
+-rw-r--r--  1 joseluisbustosesteban  staff    0 Oct  9 10:27 aaa.txt
+drwxr-xr-x  2 joseluisbustosesteban  staff   64 Oct  9 10:27 dir1
+drwxr-xr-x  2 joseluisbustosesteban  staff   64 Oct  9 10:27 dir2
+drwxr-xr-x  2 joseluisbustosesteban  staff   64 Oct  9 10:27 dir3
+-rw-r--r--  1 joseluisbustosesteban  staff  168 Oct  9 10:24 jorge_1.txt
